@@ -13,3 +13,8 @@ Currently, two official plugins are available:
 # This Application created using vite-react-app 
 # The env file we have to access using 
 # import.meta.env
+
+```
+```
+# For Starting the application
+- npm run dev
