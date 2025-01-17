@@ -17,5 +17,6 @@ Currently, two official plugins are available:
 ```
 ```
 # For Starting the application
-- npm run dev
+```
+npm run dev
 ```
