@@ -14,8 +14,7 @@ Currently, two official plugins are available:
 # The env file we have to access using 
 # import.meta.env
 
-```
-```
+
 # For Starting the application
 ```
 npm run dev
